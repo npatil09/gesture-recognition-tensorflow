@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+gesture_env/
+
+
+# Dataset
+gesture_data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# IDE settings
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
