@@ -5,7 +5,7 @@ Hand Gesture Recognition Project
 I built this project to explore computer vision and machine learning
 using MediaPipe, OpenCV, and TensorFlow. The system can collect hand
 gesture samples, train a model on the collected data, and recognize
-gestures in real time using a webcam.
+gestures in real time using a webcams.
 
 Commands:
 
