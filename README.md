@@ -114,3 +114,7 @@ python gesture_recognition_system.py --mode detect
 - Improving model accuracy
 - Gesture-controlled system actions
 - Presentation control using gestures
+
+## LICENSE
+
+MIT — feel free to use, adapt, and build on this.
