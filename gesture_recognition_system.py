@@ -42,7 +42,7 @@ CONFIG = {
     'model_path': 'models/gesture_model.h5',
     'scaler_path': 'models/gesture_scaler.pkl',
     'label_map_path': 'models/label_map.pkl',
-    'gestures': ['peace', 'ok', 'thumbs_up', 'palm', 'fist'],
+    'gestures': ['peace', 'ok', 'call_me', 'palm', 'fist'],
     'samples_per_gesture': 200,
     'test_size': 0.2,
     'epochs': 50,
